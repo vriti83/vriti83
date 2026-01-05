@@ -19,22 +19,6 @@ Here are some ideas to get you started:
 </picture>
 
 ## About me
-Hi, I'm Vritika. I'm a 3rd year B.Tech student. 
+Hi, I'm Vritika. I'm a final year B.Tech student. 
 <!-- TO DO: add more details about me later -->
-
-<details>
-<summary>My top Languages </summary>
-  
-| Rank | LANGUAGES |
-|-----:|-----------|
-|     1|    C++    |
-|     2|    Java   |
-|     3|    SQL    |
-</details>
-
----
-
-> Confusion is part of programming.
-
-― Felienne Hermans
 
